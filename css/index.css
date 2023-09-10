@@ -3,7 +3,13 @@
 
 /** MISCEALANEOUS **/
         /*normalizacion */
+
+@import url('./misc/variables.css');
+
 @import url('./misc/normalize.css');
+
+@import url('./misc/helpers.css');
+
 
 
 /** PARTIALS **/
@@ -13,6 +19,15 @@
         /*footer*/
 @import url('./partials/footer.css');
 
+        /* Estilo botones */
+@import url('./partials/button.css');
+
+        /* Card small the home */
+@import url('./partials/small-card.css');
+
+        /* Estilo formularios */
+@import url('./partials/form.css');
+
 
 /** SLIDERS **/
 @import url('./components/slider.css');
@@ -20,4 +35,22 @@
 
 /** PAGINAS **/
 @import url('./pages/home.css');
+
 @import url('./pages/shop.css');
+
+@import url('./pages/admin.css');
+
+@import url('./pages/cart.css');
+
+@import url('./pages/create.css');
+
+@import url('./pages/edit.css');
+
+@import url('./pages/contact.css');
+
+@import url('./pages/item.css');
+
+@import url('./pages/login.css');
+
+@import url('./pages/register.css');
+
