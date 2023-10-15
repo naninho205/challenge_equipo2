@@ -27,10 +27,10 @@
 
 <!-- DOCENTES -->
 ## Equipo docente
-| Profesor         |   Cargo    |
-|:-----------------|:----------:|
-| Pablo Rovira     | Instructor |
-| Agustina Lemoine |   Tutora   |
+| Profesor         |    Cargo    |
+|:-----------------|:-----------:|
+| Pablo Rovira     | Instructor  |
+| Agustina Lemoine |   Tutora    |
 
 
 
@@ -41,7 +41,7 @@
 | Alan Guevara                |            [catok2](https://github.com/catok2)             |
 | Ana Gutierrez Antista       |           [anah028](https://github.com/anah028)            |
 | César Ferrarotti            |        [naninho205](https://github.com/naninho205)         |
-| Damián Zazzarino            |        [Dzazzarino](hhttps://github.com/Dzazzarino)        |
+| Damián Zazzarino            |        [Dzazzarino](https://github.com/Dzazzarino)         |
 | Federico Tripodi Percivali  |          [fedetrip](https://github.com/fedetrip)           |
 | Nhoeli Salazar              |                            []()                            |
 | Rodrigo Almecija            |         [rochani11](https://github.com/rochani11)          |
