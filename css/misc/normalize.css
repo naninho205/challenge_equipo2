@@ -43,3 +43,13 @@ input[type="text"]::placeholder {
     font-family: var(--base-font);
     font-weight: 500;
 }
+
+select,
+select option {
+    color: var(--dark-solid);
+}
+
+select:invalid,
+select option[value=""] {
+    color: var(--dark-300);
+}

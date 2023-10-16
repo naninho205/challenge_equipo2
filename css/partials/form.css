@@ -17,7 +17,7 @@ textarea::placeholder {;
 }
 
 .form__label {
-    font-size: var(--font-medium);
+    font-size: var(--font-large);
     font-weight: 600;
     letter-spacing: var(--spacing-1);
 }
@@ -61,4 +61,33 @@ textarea::placeholder {;
 
     font-size: var(--font-medium);
     gap: var(--spacing-8);
+}
+
+.form__flex {
+    display: flex;
+
+    justify-content: flex-start;
+    gap: var(--spacing-36);
+}
+
+.form__box--flex {
+    display: flex;
+    align-items: center;
+
+    gap: var(--spacing-12);
+}
+
+.form__select {
+    border: 2px solid var(--dark-solid);
+    border-radius: 6px;
+    font-size: var(--font-large800);
+    padding: var(--spacing-8);
+}
+
+.form__input--wrapper {
+    display: flex;
+}
+
+.form__input--wrapper .form__input {
+    width: 100%;
 }
