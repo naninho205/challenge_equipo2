@@ -36,16 +36,16 @@
 
 <!-- INTEGRANTES -->
 ## Integrantes del grupo
-| Alumno                      |                          Usuario                           |
-|:----------------------------|:----------------------------------------------------------:|
-| Alan Guevara                |            [catok2](https://github.com/catok2)             |
-| Ana Gutierrez Antista       |           [anah028](https://github.com/anah028)            |
-| César Ferrarotti            |        [naninho205](https://github.com/naninho205)         |
-| Damián Zazzarino            |        [Dzazzarino](https://github.com/Dzazzarino)         |
-| Federico Tripodi Percivali  |          [fedetrip](https://github.com/fedetrip)           |
-| Nhoeli Salazar              |                            []()                            |
-| Rodrigo Almecija            |         [rochani11](https://github.com/rochani11)          |
-| Sabrina Ongarato            | [sabrinaongarato79](https://github.com/sabrinaongarato79)  |
+| Alumno                      |                          Usuario                          |
+|:----------------------------|:---------------------------------------------------------:|
+| Alan Guevara                |            [catok2](https://github.com/catok2)            |
+| Ana Gutierrez Antista       |           [anah028](https://github.com/anah028)           |
+| César Ferrarotti            |        [naninho205](https://github.com/naninho205)        |
+| Damián Zazzarino            |        [Dzazzarino](https://github.com/Dzazzarino)        |
+| Federico Tripodi Percivali  |          [fedetrip](https://github.com/fedetrip)          |
+| Nhoeli Salazar              |             [Nho89](https://github.com/Nho89)             |
+| Rodrigo Almecija            |         [rochani11](https://github.com/rochani11)         |
+| Sabrina Ongarato            | [sabrinaongarato79](https://github.com/sabrinaongarato79) |
 
 
 
@@ -73,9 +73,11 @@ Es posible probar la aplicación desde [acá][demo-url].
 * Introducción
     * [Introducción al Challenge Integrador](doc/intro.pdf)
 * Consignas
-    * [Mission#1](doc/mission1.pdf)
-    * [Mission#2 - Estilos con CSS](doc/mission2.pdf)
-    * [Mission#3 - Manejando el DOM](doc/mission3.pdf)
+    * [Mission#1 - ¡Arrancamos con la primera misión!](doc/mission1.pdf)
+    * [Mission#2 - ¡Continuamos trabajando en nuestro proyecto!](doc/mission2.pdf)
+    * [Mission#3 - ¡Preparamos todo antes de comenzar con el Backend!](doc/mission3.pdf)
+    * [Mission#4 - ¡Manos a la obra con nuestro servidor!](doc/mission4.pdf)
+    * [Mission#5 - ¡Llegó la hora del contenido dinámico!](doc/mission5.pdf)
 
 
 

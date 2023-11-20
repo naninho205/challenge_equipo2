@@ -10,7 +10,10 @@
 
 @import url('./misc/helpers.css');
 
+@import url('./misc/animations.css');
 
+/** SLIDERS **/
+@import url('./components/slider.css');
 
 /** PARTIALS **/
 
@@ -20,7 +23,7 @@
 @import url('./partials/footer.css');
 
         /* Estilo botones */
-@import url('./partials/buttons.css');
+@import url('./partials/button.css');
 
         /* Card small the home */
 @import url('./partials/small-card.css');
