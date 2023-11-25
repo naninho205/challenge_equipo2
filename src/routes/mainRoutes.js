@@ -1,20 +1,11 @@
 const express = require('express');
 const router = express.Router();
 
-router.get('/home', (req, res) => {
-    res.send('route for home view')
-});
+const mainControllers = require('../controllers/mainControllers');
 
-router.get('/contact', (req, res) => {
-    res.send('route for contact view')
-});
-
-router.get('/about', (req, res) => {
-    res.send('route for about view')
-});
-
-router.get('/faq', (req, res) => {
-    res.send('route for faq view')
-});
+router.get('/home', mainControllers.home);
+router.get('/contact', mainControllers.contact);
+router.get('/about', mainControllers.about);
+router.get('/faq', mainControllers.faq);
 
 module.exports = router;
